@@ -1,4 +1,4 @@
-# Demo Application using OpenText Risk Guard and Capture API Services, and Vertica Analytics Platform database
+# Demo Application using OpenText Risk Guard and Capture API Services, and Vertica Analytics Platform
 This is a sample application showcasing **Risk Guard Service** and **Capture Service** on the OpenText Cloud Platform (OCP), and the use of **Vertica Analytics Platform** database to store extracted information.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This was combined with the OpenText IM Services APIs and Vertica Analytics database.
