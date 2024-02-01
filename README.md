@@ -53,7 +53,7 @@ Document Types:      DNA Stool Analysis
 Recognition Project: Information Extraction
 Capture Profiles:    Lab Report Information Extraction
 ```
-5. Next, login to your OpenText Developer account and go to the Admin Center. Navigate to the Tenant apps and select the **CoreCapture** subscription. Click on the "Link to app" hyperlink to access the Core Capture web application. The dashboard will show the newly uploaded **Lab Report Information Extraction** profile. Select this profile and proceed to upload the sample pdf file included in the demo source code package inside the **sample_file** folder.
+5. Next, login to your [OpenText Developer](https://developer.opentext.com/) account and go to the Admin Center. Navigate to the Tenant apps and select the **CoreCapture** subscription. Click on the "Link to app" hyperlink to access the Core Capture web application. The dashboard will show the newly uploaded **Lab Report Information Extraction** profile. Select this profile and proceed to upload the sample pdf file included in the demo source code package inside the **sample_file** folder.
 6. Follow the steps described in the first Core Capture tutorial video to train the AI to allocate information in the uploaded pdf to the correct fields.
 
 
